@@ -1,31 +1,31 @@
 # Store Phone Database
--------------------------------------
+
 *Written by Marin Tsanov, 2020*
 
 ----------
 
 ## Requirements
 
-	- GCC compiler
+- GCC compiler
 
 ## Instructions
-	- Compile & run on Windows:
+- Compile & run on Windows:
 ```
 > gcc -o main.exe main.c
 > main
 ```
-	- Compile & run on Unixes/Mac OS X:
+- Compile & run on Unixes/Mac OS X:
 ```
 $ gcc -o main main.c
 $ chmod a+x main
 $ ./main
 ```
 
-**More about compiling & running using GCC: ** https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
+**More about compiling & running using GCC:** https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
 
 ## Notes
 
-	- This is my course work for the course "Programming 2 (in ANSI C)" at my university, TU-Sofia. It was given maximum points after the defense in May 2020. This is the original task, translated:
+- This is my course work for the course "Programming 2 (in ANSI C)" at my university, TU-Sofia. It was given maximum points after the defense in May 2020. This is the original task, translated:
 
 > Create a program for the command line interface (CLI) in C, which has a menu interface. The program is meant to maintain data about phones available in a store.
 > 
