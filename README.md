@@ -11,14 +11,14 @@
 ## Instructions
 - Compile & run on Windows:
 ```
-> gcc -o main.exe main.c
-> main
+> gcc -o phonedb.exe main.c
+> phonedb
 ```
 - Compile & run on Unixes/Mac OS X:
 ```
-$ gcc -o main main.c
-$ chmod a+x main
-$ ./main
+$ gcc -o phonedb main.c
+$ chmod a+x phonedb
+$ ./phonedb
 ```
 
 **More about compiling & running using GCC:** https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
