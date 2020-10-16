@@ -1,9 +1,5 @@
 # Store Phone Database
 
-*Written by Marin Tsanov, 2020*
-
-----------
-
 ## Requirements
 
 - GCC compiler
@@ -40,3 +36,5 @@ $ ./phonedb
 >	- Showing information about all phones with price above average;
 >	- Displaying phone data when given an ID.
 > 3. Working with data is done using linked list.
+
+*M. Tsanov, 2020*
