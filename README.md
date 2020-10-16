@@ -11,7 +11,7 @@ A simple "database" for storing phone data in binary files, written in C.
 > gcc -o phonedb.exe main.c
 > phonedb
 ```
-- Compile & run on Unixes/Mac OS X:
+- Compile & run on Linux/Mac OS X:
 ```
 $ gcc -o phonedb main.c
 $ chmod a+x phonedb
