@@ -1,4 +1,5 @@
 # Store Phone Database
+A simple "database" for storing phone data in binary files, written in C.
 
 ## Requirements
 
